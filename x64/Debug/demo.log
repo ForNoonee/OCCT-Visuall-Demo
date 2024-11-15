@@ -1,0 +1,18 @@
+﻿   Qt/MSBuild: 3.3.0.13
+   Qt: 5.15.2
+  occ_demo2.cpp
+  occview.cpp
+  main.cpp
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 occ_demo2.cpp)
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 occ_demo2.cpp)
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 occ_demo2.cpp)
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+  qrc_occview.cpp
+  moc_occview.cpp
+  moc_occ_demo2.cpp
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\qt\moc\moc_occ_demo2.cpp)
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\qt\moc\moc_occ_demo2.cpp)
+C:\Libs\PCL 1.12.1\3rdParty\Eigen\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\qt\moc\moc_occ_demo2.cpp)
+  demo.vcxproj -> C:\Users\admin\source\repos\demo\x64\Debug\demo.exe
